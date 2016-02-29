@@ -1,0 +1,142 @@
+{
+    // Custom symbols
+    // Use it for you symbols, for example:
+    // {
+    //     "mysymbol": "\u0021",
+    //     "myothersymbol": "\u2080"
+    // }
+    "symbols": {
+
+        // Values
+        "inf" :     "∞",
+        "hbar":     "ħ",
+
+        // Vectors
+        "rvect":    "𝐫",
+        "Svect":    "𝐒",
+
+        // Mods
+        "vect":     "⃑",
+        "hat":      "̂",
+        "^*":       "⃰",
+        "'":        "′",
+        "prime":    "′",
+
+        
+        // Latin
+        "_x"  :     "𝓍",
+        "_y"  :     "𝓎",
+        "_z"  :     "𝓏",
+        "x^"  :     "x̂",
+        "prob":     "𝓟",
+        "subn":     "ₙ",
+        "scrZ":     "𝒵",
+        "scrx":     "𝓍",
+        "scry":     "𝓎",
+        "scrz":     "𝓏",
+        "Sx":       "S𝓍",
+        "Sy":       "S𝓎",
+        "Sz":       "S𝓏",
+        "bS":       "𝐒",
+
+        // Greek Letters
+        "gW":       "Ψ",
+        "gw":       "ψ",
+        "gF":       "Φ",
+        "gf":       "φ",
+        "sphi":     "φ",
+        "gfs":      "ϕ",
+        "gG":       "Γ",
+        "gg":       "γ",
+        "^theta":   "ᶿ",
+
+        // Figures
+        "|":        "│",
+        "abs":      "││",
+        "-":        "͟",
+        "^-":       "̅",
+        "{":        "⎧\n⎨\n⎪\n⎪\n⎩",
+        "}":        "⎫\n⎪\n⎪\n⎬\n⎭",
+        
+
+        // Bras and Kets
+        "bra":      "❬",
+        "ket":      "❭",
+        "<"   :     "❬",
+        ">"   :     "❭",
+        "<|>":      "❬❙❭",
+        "|>":      "❙❭",
+        "<|":      "❬❙",
+
+        "<W|W>":    "❬Ψ❙Ψ❭",
+        "|W>":      "❙Ψ❭",
+        "<W|":      "❬Ψ❙",
+        "W>":       "Ψ❭",
+        "<W":       "❬Ψ",
+
+        "<E|E>":    "❬E❙E❭",
+        "|E>":      "❙E❭",
+        "<E|":      "❬E❙",
+        "E>":       "E❭",
+        "<E":       "❬E",
+
+        "<En|En>":    "❬Eₙ❙Eₙ❭",
+        "|En>":      "❙Eₙ❭",
+        "<En|":      "❬Eₙ❙",
+        "En>":       "Eₙ❭",
+        "<En":       "❬Eₙ",
+
+
+
+
+        // Matric Outlines
+        "(":        "⎛",
+        ")":        "⎞",
+        "((":       "⎝",
+        "))":       "⎠",
+        "()":       "⎛⎞\n⎝⎠",
+        "(|)":      "⎛⎞\n⎜⎟\n⎝⎠",
+
+        // Operators
+        "part":     "∂/∂",
+        "part2":    "∂²/∂²",
+        "=.":       "≐",
+        "del":      "∇",
+        "approach": "≐",
+        "==":       "≡",
+        "def":      "≝",
+        "It":       "⌠",
+        "Ie":       "⎮",
+        "Ib":       "⌡",
+        "I":        "∫",
+        "infint":   "      ∞\n    = ∫ \n     -∞",
+
+        // Blackboard Bold
+        "00":       "𝟘",
+        "11":       "𝟙",
+        "22":       "𝟚",
+        "33":       "𝟛",
+        "44":       "𝟜",
+        "55":       "𝟝",
+        "66":       "𝟞",
+        "77":       "𝟟",
+        "88":       "𝟠",
+        "99":       "𝟡",
+        "i":        "ι"
+        },
+    // Custom synonyms
+    // Synonims for existing symbol names:
+    // {
+    //     "mys": "mysymbol"
+    // }
+    "synonyms": {},
+    // Syntaxes to ignore
+    "ignore_syntax": ["latex"],
+    // Convert \uXXXX and \UXXXXXXXX to symbol
+    "convert_codes": true,
+    // Convert multichar subscript and superscript \^abc → \^a\^b\^c and \_abc → \_a\_b\_c
+    "convert_sub_super": true,
+    // List-convert, \\prefix\abc → \prefixa\prefixb\prefixc, for example
+    // \\Bbb\ABC → \BbbA\BbbB\BbbC → 𝔸𝔹ℂ
+    "convert_list": true
+}

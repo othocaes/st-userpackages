@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++NamespaceTool",
+		"Character Table",
+		"File Navigator",
+		"FileBrowser",
+		"FontCycler",
+		"Greek Letters",
+		"LyxMath",
+		"Mirodark Color Scheme",
+		"Package Control",
+		"Python 3",
+		"Simple Print Function",
+		"Unicode Character Insert",
+		"UnicodeMath",
+		"WebFont",
+		"WordCount"
+	]
+}
