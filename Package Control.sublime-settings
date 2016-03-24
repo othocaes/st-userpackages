@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoWidth",
 		"C++NamespaceTool",
 		"Character Table",
 		"File Navigator",
@@ -19,6 +20,7 @@
 		"Unicode Character Insert",
 		"UnicodeMath",
 		"WebFont",
+		"Wildlife gutter theme",
 		"WordCount"
 	]
 }
