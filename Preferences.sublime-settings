@@ -1,12 +1,17 @@
 {
+	"WrapPlus.break_long_words": false,
+	"WrapPlus.break_on_hyphens": false,
 	"color_scheme": "Packages/Mirodark Color Scheme/MirodarkHighContrast.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "FreeMono",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "auto",
+	"auto_wrap_width":	80,
+	"auto_wrap_break_long_word": true
 }
