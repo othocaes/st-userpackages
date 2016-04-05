@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"AutoWidth",
+		"AutoWrap",
 		"C++NamespaceTool",
+		"Center Comment",
 		"Character Table",
 		"File Navigator",
 		"FileBrowser",
@@ -17,6 +19,7 @@
 		"Package Control",
 		"Python 3",
 		"Simple Print Function",
+		"TextFormatting",
 		"Unicode Character Insert",
 		"UnicodeMath",
 		"WebFont",
