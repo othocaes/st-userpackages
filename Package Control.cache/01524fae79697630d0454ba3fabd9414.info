@@ -1,9 +1,14 @@
 {
 <<<<<<< HEAD
+    "etag": "\"572bfd00-3e932\"", 
+    "last-modified": "Fri, 06 May 2016 02:10:08 GMT"
+=======
+<<<<<<< HEAD
     "etag": "\"57279a58-3dc26\"", 
     "last-modified": "Mon, 02 May 2016 18:20:08 GMT"
 =======
     "etag": "\"5702cecf-3d5b4\"", 
     "last-modified": "Mon, 04 Apr 2016 20:30:07 GMT"
 >>>>>>> df4f489aba26cd62c16f660deb6b94acde73a163
+>>>>>>> 31fa9b0da8bf6b098e02b5d04f273fda11523883
 }
