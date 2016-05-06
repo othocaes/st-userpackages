@@ -1,17 +1,10 @@
 {
 	"WrapPlus.break_long_words": false,
 	"WrapPlus.break_on_hyphens": false,
-<<<<<<< HEAD
 	"WrapPlus.wrap_width": 72,
 	"auto_wrap_break_long_word": false,
 	"auto_wrap_width": 72,
 	"color_scheme": "Packages/Python 3/Gloom.tmTheme",
-=======
-	"WrapPlus.wrap_width": 69,
-	"auto_wrap_break_long_word": false,
-	"auto_wrap_width": 69,
-	"color_scheme": "Packages/Mirodark Color Scheme/MirodarkHighContrast.tmTheme",
->>>>>>> df4f489aba26cd62c16f660deb6b94acde73a163
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Source Code Pro Light",
 	"font_size": 12,
@@ -21,9 +14,5 @@
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-<<<<<<< HEAD
 	"word_wrap": "off"
-=======
-	"word_wrap": "auto"
->>>>>>> df4f489aba26cd62c16f660deb6b94acde73a163
 }

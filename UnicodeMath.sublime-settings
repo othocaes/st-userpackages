@@ -330,14 +330,9 @@
         // Operators
         "cp":       "×",
         "dp":       "⋅",
-<<<<<<< HEAD
         "tp":       "⊗",
-        "part":     "∂/∂",
-        "part2":    "∂²/∂²",
-=======
         "part":     "∂͟\n∂",
         "part2":    "∂͟²͟\n∂²",
->>>>>>> df4f489aba26cd62c16f660deb6b94acde73a163
         "=.":       "≐",
         "del":      "∇",
         "approach": "≐",
