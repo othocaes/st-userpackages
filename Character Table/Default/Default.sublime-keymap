@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< HEAD
         "keys": [
             "ctrl+k", 
             "A", 
@@ -3783,7 +3782,6 @@
         "command": "insert"
     }, 
     {
-=======
         "command": "insert", 
         "args": {
             "characters": "\u2302"
@@ -7192,12 +7190,10 @@
         "args": {
             "characters": "\u3076"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "u", 
             "b"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u3076"
@@ -7205,20 +7201,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u3076"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "b", 
             "u"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u3076"
@@ -14503,10 +14493,6 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u0125"
@@ -21063,12 +21049,10 @@
         "args": {
             "characters": "\u30c9"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "o", 
             "D"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u30c9"
@@ -21076,20 +21060,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u30c9"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "D", 
             "o"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u30c9"
@@ -21150,10 +21128,6 @@
             "characters": "\u0124"
         }, 
         "command": "insert"
-    }, 
-    {
-=======
-        ]
     }, 
     {
         "command": "insert", 
@@ -21262,12 +21236,10 @@
         "args": {
             "characters": "\u0163"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             ",", 
             "t"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u0163"
@@ -21275,20 +21247,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u0163"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "t", 
             ","
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u0163"
@@ -29916,10 +29882,6 @@
             "characters": "\u013c"
         }, 
         "command": "insert"
-    }, 
-    {
-=======
-        ]
     }, 
     {
         "command": "insert", 
@@ -39180,12 +39142,10 @@
         "args": {
             "characters": "\u0167"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "/", 
             "t"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u0167"
@@ -39193,20 +39153,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u0167"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "t", 
             "/"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u0167"
@@ -39437,10 +39391,6 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u001f"
@@ -39578,13 +39528,11 @@
         "args": {
             "characters": "\ufee8"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "n", 
             "+", 
             "."
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\ufee8"
@@ -39881,10 +39829,6 @@
             "characters": "\u1ed3"
         }, 
         "command": "insert"
-    }, 
-    {
-=======
-        ]
     }, 
     {
         "command": "insert", 
@@ -40213,12 +40157,10 @@
         "args": {
             "characters": "\u3071"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "a", 
             "p"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u3071"
@@ -40226,20 +40168,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u3071"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "p", 
             "a"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u3071"
@@ -40436,10 +40372,6 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u30dc"
@@ -40533,12 +40465,10 @@
         "args": {
             "characters": "\u1eaa"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "A", 
             ">", 
-<<<<<<< HEAD
             "'"
         ], 
         "args": {
@@ -42191,11 +42121,6 @@
         "command": "insert"
     }, 
     {
-=======
-            "?"
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\ufea5"
@@ -43840,12 +43765,10 @@
         "args": {
             "characters": "\u1eed"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "u", 
             "9", 
-<<<<<<< HEAD
             "-", 
             "."
         ], 
@@ -48947,11 +48870,6 @@
             "characters": "\u3015"
         }, 
         "command": "insert"
-    }, 
-    {
-=======
-            "2"
-        ]
     }, 
     {
         "command": "insert", 
@@ -54093,12 +54011,10 @@
         "args": {
             "characters": "\u1eec"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "U", 
             "9", 
-<<<<<<< HEAD
             "?"
         ], 
         "args": {
@@ -55001,11 +54917,7 @@
         }, 
         "command": "insert"
     }, 
-    {
-=======
-            "2"
-        ]
-    }, 
+
     {
         "command": "insert", 
         "args": {
@@ -55979,12 +55891,10 @@
         "args": {
             "characters": "\ufebd"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "d", 
             "d", 
-<<<<<<< HEAD
             ";"
         ], 
         "args": {
@@ -60735,11 +60645,6 @@
             "characters": "\u1e52"
         }, 
         "command": "insert"
-    }, 
-    {
-=======
-            "-"
-        ]
     }, 
     {
         "command": "insert", 
@@ -65984,12 +65889,10 @@
         "args": {
             "characters": "\u2171"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "r", 
             "2"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u2171"
@@ -65997,20 +65900,14 @@
         "command": "insert"
     }, 
     {
-=======
-        ]
-    }, 
-    {
         "command": "insert", 
         "args": {
             "characters": "\u2171"
         }, 
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
         "keys": [
             "ctrl+k", 
             "2", 
             "r"
-<<<<<<< HEAD
         ], 
         "args": {
             "characters": "\u2171"
@@ -66094,8 +65991,6 @@
             "characters": "\u2077"
         }, 
         "command": "insert"
-=======
-        ]
     }, 
     {
         "command": "insert", 
@@ -66154,6 +66049,5 @@
             "2", 
             ")"
         ]
->>>>>>> ef61626b411c6fbc18a3e2a2cf606ba102002006
     }
 ]
