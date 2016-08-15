@@ -4,6 +4,7 @@
 	"WrapPlus.wrap_width": 78,
 	"auto_wrap_break_long_word": false,
 	"auto_wrap_width": 68,
+	"wrap_width": 80,
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Source Code Pro Light",
